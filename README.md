@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SanketPotdar28
+- 👋 Hi, I’m Sanket Potdar
 - 👀 I’m interested in Data Science, Traveling, Exploring Internet.
 - 🌱 I’m currently learning Data Science.
 - 📫 How to reach me potdarsanket28@gmail.com
